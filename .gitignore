@@ -12,7 +12,7 @@
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
-/Assets/Editor/Migration/com.ptc.vuforia.engine-10.9.3.tgz
+!/Assets/Editor/Migration/com.ptc.vuforia.engine-10.9.3.tgz
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
