@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="museum" size="2.000000 1.501362" />
+    <ImageTarget name="horsens-klosterkirke" size="2.000000 1.500000" />
+    <ImageTarget name="founden-faengslet" size="1.000000 0.666667" />
+    <ImageTarget name="VIA_building" size="1.000000 0.809249" />
+    <ImageTarget name="descarga" size="1.500000 2.002577" />
+  </Tracking>
+</QCARConfig>
