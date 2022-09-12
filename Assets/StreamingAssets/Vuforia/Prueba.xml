@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="VIA_building" size="1.000000 0.809249" />
-    <ImageTarget name="descarga" size="1.500000 2.002577" />
-  </Tracking>
-</QCARConfig>
