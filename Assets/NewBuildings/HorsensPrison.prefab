@@ -1148,7 +1148,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2a2c7014f045bfd40a2f901976db2ede, type: 3}
       propertyPath: m_Name
-      value: HorsensPrision
+      value: HorsensPrison
       objectReference: {fileID: 0}
     - target: {fileID: 4872221944022175911, guid: 2a2c7014f045bfd40a2f901976db2ede, type: 3}
       propertyPath: m_LocalScale.y
